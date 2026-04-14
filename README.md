@@ -13,11 +13,11 @@ Identificar zonas y condiciones de mayor riesgo
 ## 🎯 Objetivo
 Desarrollar un modelo predictivo capaz de estimar la gravedad de un accidente en función de variables como:
 
-Condiciones meteorológicas
-Hora y fecha
-Tipo de vehículo
-Ubicación
-Factores contextuales del accidente
+- Condiciones meteorológicas
+- Hora y fecha
+- Tipo de vehículo
+- Ubicación
+- Factores contextuales del accidente
 
 ## 📊 Dataset
 Los datos utilizados provienen de:
@@ -28,23 +28,23 @@ Los datos utilizados provienen de:
 ## 🔧 Feature Engineering
 Se han creado nuevas variables para enriquecer el dataset:
 
--festivo / no festivo
--fin de semana
--hora punta
--mes
--estación
--franja horaria
--día / noche
--Variables derivadas del clima
--Codificación de variables categóricas (One-Hot, Target Encoding)
+- festivo / no festivo
+- fin de semana
+- hora punta
+- mes
+- estación
+- franja horaria
+- día / noche
+- Variables derivadas del clima
+- Codificación de variables categóricas (One-Hot, Target Encoding)
 
 ## ⚙️ Tecnologías utilizadas
-Python
-Pandas / NumPy
-Scikit-learn
-Imbalanced-learn (SMOTE)
-Power BI
-Jupyter Notebook
+- Python
+- Pandas / NumPy
+- Scikit-learn
+- Imbalanced-learn (SMOTE)
+- Power BI
+- Jupyter Notebook
 
 ## 🧠 Modelado
 Se han utilizado modelos de tipo ensemble basados en árboles:
