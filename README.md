@@ -2,7 +2,6 @@
 # 🚑 Predicción de la Gravedad de Accidentes de Tráfico en Madrid
 ## 📌 Descripción del proyecto
 
-
 Este proyecto tiene como objetivo predecir la gravedad de los accidentes de tráfico en Madrid utilizando técnicas de Machine Learning.
 
 El propósito principal es aportar valor desde el punto de vista de negocio, permitiendo:
@@ -10,8 +9,8 @@ El propósito principal es aportar valor desde el punto de vista de negocio, per
 Optimizar la asignación de recursos médicos
 Mejorar la capacidad de respuesta ante emergencias
 Identificar zonas y condiciones de mayor riesgo
-## 🎯 Objetivo
 
+## 🎯 Objetivo
 Desarrollar un modelo predictivo capaz de estimar la gravedad de un accidente en función de variables como:
 
 Condiciones meteorológicas
@@ -19,14 +18,14 @@ Hora y fecha
 Tipo de vehículo
 Ubicación
 Factores contextuales del accidente
-## 📊 Dataset
 
+## 📊 Dataset
 Los datos utilizados provienen de:
 
 Portal de datos abiertos del Ayuntamiento de Madrid (accidentes de tráfico)
 API de clima (OpenWeather)
-## 🔧 Feature Engineering
 
+## 🔧 Feature Engineering
 Se han creado nuevas variables para enriquecer el dataset:
 
 -festivo / no festivo
@@ -48,7 +47,6 @@ Power BI
 Jupyter Notebook
 
 ## 🧠 Modelado
-
 Se han utilizado modelos de tipo ensemble basados en árboles:
 
 - Random Forest
