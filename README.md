@@ -1,5 +1,44 @@
 
 # 🚑 Predicción de la Gravedad de Accidentes de Tráfico en Madrid
+
+## 📂 Estructura del repositorio
+
+El repositorio está organizado en diferentes carpetas que reflejan las principales fases del proyecto de análisis y modelado:
+├── datasets/
+├── informes/
+├── notebooks/
+├── Final model-*.zip
+
+
+### 📁 `datasets/`
+Contiene todos los datos utilizados en el proyecto:
+
+- **Raw data**: datos originales sin procesar  
+- **Processed data**: datos limpios y transformados para el modelado  
+- **Datos para Power BI**: datasets específicos preparados para la visualización en el dashboard  
+
+
+### 📁 `informes/`
+Incluye toda la documentación y entregables del proyecto:
+
+- 📊 Presentación final  
+- 📄 Informe técnico  
+- 📈 Dashboard de Power BI  
+
+
+### 📁 `notebooks/`
+Contiene los notebooks desarrollados en Python:
+
+- Procesamiento y limpieza de datos  
+- Feature engineering  
+- Análisis exploratorio  
+- Preparación de datos para modelado  
+
+
+### 📦 `Final model-*.zip`
+Archivo comprimido que contiene el modelo final entrenado, listo para su uso o despliegue.
+
+
 ## 📌 Descripción del proyecto
 
 Este proyecto tiene como objetivo predecir la gravedad de los accidentes de tráfico en Madrid utilizando técnicas de Machine Learning.
