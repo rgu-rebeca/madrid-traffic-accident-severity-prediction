@@ -22,8 +22,8 @@ Factores contextuales del accidente
 ## 📊 Dataset
 Los datos utilizados provienen de:
 
-Portal de datos abiertos del Ayuntamiento de Madrid (accidentes de tráfico)
-API de clima (OpenWeather)
+- Portal de datos abiertos del Ayuntamiento de Madrid (accidentes de tráfico) (https://datos.madrid.es/)
+- API de clima (OpenWeather) (https://openweathermap.org/)
 
 ## 🔧 Feature Engineering
 Se han creado nuevas variables para enriquecer el dataset:
