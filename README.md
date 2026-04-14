@@ -51,7 +51,7 @@ Se han utilizado modelos de tipo ensemble basados en árboles:
 
 - Random Forest
 - Gradient Boosting
-- 
+  
 ## 🔍 Técnicas aplicadas
 - Validación cruzada
 - Grid Search (optimización de hiperparámetros)
