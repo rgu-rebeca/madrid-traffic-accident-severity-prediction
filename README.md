@@ -4,6 +4,7 @@
 ## 📂 Estructura del repositorio
 
 El repositorio está organizado en diferentes carpetas que reflejan las principales fases del proyecto de análisis y modelado:
+
 ├── datasets/
 
 ├── informes/
